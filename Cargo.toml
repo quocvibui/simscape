@@ -1,0 +1,8 @@
+[package]
+name = "simscape"
+version = "0.1.0"
+authors = ["quocvibui <buiviquoc@gmail.com>"]
+edition = "2024"
+
+[dependencies]
+nannou = "0.17"
